@@ -55,3 +55,37 @@
     margin-top: 15px;
     margin-bottom: 15px
 }
+.h1{
+    font-size: 50px;
+    text-align: center;
+    padding-left: 10px;
+
+}
+.about-container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    width: 200px;
+    height: 230px;
+    box-shadow: 5px,5px,15px grey;
+    background-color: #161515;
+    text-align: center;
+    padding: 15px;margin: 10px;
+}
+.icon{
+    width: 80px;
+}
+.head{
+    padding: 5px;
+    justify-content: center;
+}
+.sarvis-container{
+    display: flex;
+    justify-content:space-around;
+    /* padding: 40px; */
+    background-image: url('./images/background.png');
+    color: aliceblue;
+}
